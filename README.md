@@ -57,6 +57,11 @@ python main.py \
   --collection 100
 ```
 
+### 4. Acknowledgement
+We appreciate the following github repos a lot for their valuable code base:
+
+https://github.com/BoChenGroup/CPGBN
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
