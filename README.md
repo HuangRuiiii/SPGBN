@@ -60,7 +60,7 @@ python main.py \
 ### 4. Acknowledgement
 We appreciate the following github repos a lot for their valuable code base:
 
-https://github.com/BoChenGroup/CPGBN
+https://github.com/chaojiewang94/Multimodal_PGBN
 
 ## License
 
